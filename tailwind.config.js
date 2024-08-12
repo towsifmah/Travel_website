@@ -19,7 +19,7 @@ export default {
       }
     },
     backgroundImage:{
-      'Travelimg':"url('./src/assets/travelsphoto.png')"
+      'Travelimg':"url('https://i.ibb.co/BL3NRkq/travelsphoto.png')"
     },
     fontFamily:{
       poppins:["Poppins", "sans-serif"],

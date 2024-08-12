@@ -1,37 +1,37 @@
 import React from "react";
 const destinations = [
   {
-    image: "./src/assets/arr1.png",
+    image: "https://i.ibb.co/Dz98D34/arr1.png",
     title: "Paris , France",
     description:
       "The City of Light draws millions of visitors every year with its unforgettable ambiance",
   },
   {
-    image: "./src/assets/arr2.png",
+    image: "https://i.ibb.co/b3pj1kn/arr2.png",
     title: "Bali, Indonsia",
     description:
       "Bali is living postcard, and Indonesian paradise that feels like a fantasty",
   },
   {
-    image: "./src/assets/arr4.png",
+    image: "https://i.ibb.co/vqgJCSL/arr4.png",
     title: "New York, USA",
     description:
       "New York City is the largest city in the United States and home to many world-famous attrictions",
   },
   {
-    image: "./src/assets/arr3.png",
+    image: "https://i.ibb.co/rtGsyBN/arr3.png",
     title: "Tokyo, Japan",
     description:
       "Tokyo offers a seemingly unlimited choice of emtertainment, shopping,Cultural attractions, and dining",
   },
   {
-    image: "./src/assets/arr5.png",
+    image: "https://i.ibb.co/4Wg5Z54/arr5.png",
     title: "Uttar Pradesh, India",
     description:
       "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India",
   },
   {
-    image: "./src/assets/arr6.png",
+    image: "https://i.ibb.co/MVkBpP2/arr6.png",
     title: "Dhaka, Bangladesh",
     description:
       "Brief. Jatiyo Sriti Shoudho (জাতীয় স্মৃতি সৌধ) or National Martyrs Memorial is the national monument of Bangladesh",

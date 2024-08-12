@@ -6,7 +6,7 @@ import Client from "../Component/Client";
 const Home = () => {
   return (
     <>
-      <div className="bg-Travelimg relative h-screen bg-cover bg-center">
+      <div className="bg-Travelimg relative h-screen bg-cover bg-center object-cover">
         <div className="absolute inset-0 bg-black bg-opacity-30 flex flex-col items-center justify-center">
           <h1 className="text-4xl md:text-6xl font-bold font-poppins text-[#fff] mb-4">
             Explore the world with Us

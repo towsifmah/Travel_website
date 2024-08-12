@@ -3,19 +3,19 @@ import React from "react";
 const testimonial = [
   {
     name: "Mahmud Hasan",
-    image: "./src/assets/mahmud.png",
+    image: "https://i.ibb.co/pXqsGN4/mahmud.png",
     text: "He is a Best Programmer in the world.He create this website for travels agency.",
     location: "Dhaka, Bangladesh",
   },
   {
     name: "Jone Smith",
-    image: "./src/assets/jone.png",
+    image: "https://i.ibb.co/fkQqWGq/jone.png",
     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo sequi cumque maxime unde dolor magnam, aliquid et",
     location: "London UK",
   },
   {
     name: "Smith Johonson",
-    image: "./src/assets/smith.png",
+    image: "https://i.ibb.co/L9G8qdC/smith.png",
     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo sequi cumque maxime unde dolor magnam, aliquid et",
     location: "Sydney Australia",
   },

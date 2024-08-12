@@ -15,7 +15,7 @@ const About = () => {
           <div className="flex items-center justify-center">
             <img
               className="rounded-lg shadow-md w-full h-auto transform transition duration-300 hover:scale-110"
-              src="./src/assets/travelsphoto.png"
+              src="https://i.ibb.co/BL3NRkq/travelsphoto.png"
               alt=""
             />
           </div>

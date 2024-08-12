@@ -1,12 +1,13 @@
 import React from "react";
 
 const images = [
-  "./src/assets/arr1.png",
-  "./src/assets/arr2.png",
-  "./src/assets/arr3.png",
-  "./src/assets/arr4.png",
-  "./src/assets/arr5.png",
-  "./src/assets/arr6.png",
+
+  "https://i.ibb.co/Dz98D34/arr1.png",
+  "https://i.ibb.co/b3pj1kn/arr2.png",
+  "https://i.ibb.co/rtGsyBN/arr3.png",
+  "https://i.ibb.co/vqgJCSL/arr4.png",
+  "https://i.ibb.co/4Wg5Z54/arr5.png",
+  "https://i.ibb.co/MVkBpP2/arr6.png",
 ];
 
 const Gallery = () => {
